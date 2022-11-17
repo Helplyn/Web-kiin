@@ -1,0 +1,83 @@
+<div class="card-group">
+  <div class="card">
+    <img src="./recursos/a1.png" class="card-img-top" alt="70">
+    <div class="card-body">
+              <!-- Button trigger modal -->
+        <button style="background-color: #FF850B;" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+          Misión
+        </button>
+        
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-scrollable">
+            <div style="background-color: #FFE10B;" class="modal-content">
+              <div style="background-color: #FFE10B;" class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">NUESTRA MISIÓN</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body"><font face="Cambria Math">
+                Crear una empresa en la que todos los procesos sean ecológicos y ser responsable con nuestros residuos, además de ofrecer un producto artesanal al alcance del público.
+               </font><div align="center"><img src="./recursos/logo.png" height="240" width="240"></div></div>
+                </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+  <div class="card">
+    <img src="./recursos/a2.png" class="card-img-top" alt="...">
+    <div class="card-body">
+
+              <!-- Button trigger modal -->
+              <button style="background-color: #FF850B;" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+                Visión
+              </button>
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-scrollable">
+                <div style="background-color: #FFE10B;" class="modal-content">
+                  <div style="background-color: #FFE10B;" class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">NUESTRA VISIÓN</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body"><font face="Cambria Math">
+                    Ser una empresa capaz de entrar al mercado dermatológico de manera competitiva, con la particularidad de un proceso de desarrollo de productos de forma ecológica y autosustentable.
+                   </font><div align="center"><img src="./recursos/logo.png" height="240" width="240"></div></div>
+                    </div>
+                </div>
+              </div>
+            </div>
+    </div>
+
+
+
+  <div class="card">
+    <img src="./recursos/a3.png" class="card-img-top" alt="50">
+    <div class="card-body">
+
+        <!-- Button trigger modal -->
+        <button style="background-color: #FF850B;" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal3">
+          Objetivos
+        </button>
+        
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel3" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-scrollable">
+            <div style="background-color: #FFE10B;" class="modal-content">
+              <div style="background-color: #FFE10B;" class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">NUESTROS OBJETIVOS</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body"><font face="Cambria Math">
+                -Crear un producto que sea amigable tanto para la piel de los consumidores como para el medio ambiente.
+                <div>-Disminuir el uso de plástico en un 80%.</div>
+                <div>-Ofrecer una alta calidad a un precio competitivo.</div>
+                <div>-Estar en constante actualización, para aumentar el inventario un 20% cada periodo de lanzamiento, capaz de mantenerse a la vanguardia. </div>
+                <div>-Apto para pieles: normal, sensible, seca, grasa, mixta, escamosa, con manchas rojas, etc.</div>
+                <div>-Libre a un 100% de crueldad animal.</font><div align="center"><img src="./recursos/logo.png" height="240" width="240"></div></div>
+                </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</div>
